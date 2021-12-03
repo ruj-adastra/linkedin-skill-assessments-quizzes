@@ -4,8 +4,8 @@
 
 - [ ] Create a Cloud Function with a target of HTTP
 - [ ] Create a Cloud Scheduler job with a target of HTTP
-- [x] Create a Cloud Function with a target of Cloud Pub/Sub
-- [ ] Create a Cloud Scheduler job with a target of Cloud Pub/Sub
+- [ ] Create a Cloud Function with a target of Cloud Pub/Sub
+- [x] Create a Cloud Scheduler job with a target of Cloud Pub/Sub
 
 #### Q2. You want to set up a managed Apache Spark cluster. Which service do you configure?
 
